@@ -1,7 +1,7 @@
 # Credit Risk Analysis Project
 
 ## Overview
-This project aims to predict loan default risk using machine learning techniques. The analysis is divided into three main stages:
+This project aims to predict loan default risk using machine learning techniques. The analysis is divided into fou main stages:
 1. Data Preprocessing and Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Logistic Regression Model Implementation
@@ -22,6 +22,10 @@ This notebook lays the groundwork for the credit risk analysis. It involves:
 - Cleaning the data and engineering features.
 - Handle missing values (e.g., fill, drop).
 - Conducting exploratory data analysis to gain insights into the data.
+
+   Loan Default (loan status): <br/>
+<img src="https://imgur.com/A6ByCtS.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<br />
 
 ### 2. Credit Risk Analysis - 2.ipynb
 Exploratory Data Analysis (EDA) using Python involves examining and visualizing datasets to summarize their main characteristics, often with visual methods. Here are the key steps and components typically involved in EDA using Python:
