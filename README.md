@@ -16,7 +16,7 @@ This notebook lays the groundwork for the credit risk analysis. It involves:
 - Loading the dataset (`credit_risk_dataset_feat.csv`).
   
  Data Import: <br/>
-<img src="[https://imgur.com/oZp9CZA.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<img src="[https://imgur.com/oZp9CZA.png]" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
 <br />
 
 - Cleaning the data and engineering features.
