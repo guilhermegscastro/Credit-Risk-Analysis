@@ -1,17 +1,11 @@
-
-
-Data Import: <br/>
-<img src="https://imgur.com/3KFpAY6.png" height="70%" width="70%" alt="Portfolio Optimization"/>
-<br />
-
-
 # Credit Risk Analysis Project
 
 ## Overview
 This project aims to predict loan default risk using machine learning techniques. The analysis is divided into three main stages:
-1. Data Preprocessing and Exploratory Data Analysis (EDA)
-2. Logistic Regression Model Implementation
-3. Random Forest Model Implementation
+1. Data Preprocessing and Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Logistic Regression Model Implementation
+4. Random Forest Model Implementation
 
 The project utilizes a dataset containing various features related to loan applications and borrower information.
 
@@ -20,18 +14,31 @@ The project utilizes a dataset containing various features related to loan appli
 ### 1. Credit Risk Analysis - 1.ipynb
 This notebook lays the groundwork for the credit risk analysis. It involves:
 - Loading the dataset (`credit_risk_dataset_feat.csv`).
-- Cleaning the data and engineering features.
-- Conducting exploratory data analysis to gain insights into the data.
-- Splitting the dataset into training and testing sets.
+  
+ Data Import: <br/>
+<img src="[https://imgur.com/oZp9CZA.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<br />
 
-### 2. Credit Risk Analysis - Logistic Regression.ipynb
+- Cleaning the data and engineering features.
+- Handle missing values (e.g., fill, drop).
+- Conducting exploratory data analysis to gain insights into the data.
+
+### 2. Credit Risk Analysis - 2.ipynb
+Exploratory Data Analysis (EDA) using Python involves examining and visualizing datasets to summarize their main characteristics, often with visual methods. Here are the key steps and components typically involved in EDA using Python:
+- Visualize relationships (scatter plots, box plots, pair plots).
+- Use bar charts, pie charts, and other categorical visualizations.
+- Correlation heatmaps to understand relationships between variables.
+- Normalize or scale numerical features.
+- Encode categorical variables.
+
+### 3. Credit Risk Analysis - Logistic Regression.ipynb
 This notebook focuses on building and evaluating a logistic regression model. Key steps include:
 - Using the preprocessed data from the first notebook.
 - Training a logistic regression model to predict loan defaults.
 - Evaluating the model's performance using metrics such as accuracy, precision, recall, and ROC-AUC.
 - Visualizing the results to interpret the model's performance.
 
-### 3. Credit Risk Analysis - Random Forest.ipynb
+### 4. Credit Risk Analysis - Random Forest.ipynb
 This notebook explores the use of a random forest model for predicting loan defaults. It covers:
 - Using the preprocessed data from the first notebook.
 - Training a random forest classifier.
