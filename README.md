@@ -23,7 +23,7 @@ This notebook lays the groundwork for the credit risk analysis. It involves:
 - Handle missing values (e.g., fill, drop).
 - Conducting exploratory data analysis to gain insights into the data.
 
-   Loan Default (loan status): <br/>
+ Target Variable (loan status): <br/>
 <img src="https://imgur.com/A6ByCtS.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
 <br />
 
@@ -31,6 +31,11 @@ This notebook lays the groundwork for the credit risk analysis. It involves:
 Exploratory Data Analysis (EDA) using Python involves examining and visualizing datasets to summarize their main characteristics, often with visual methods. Here are the key steps and components typically involved in EDA using Python:
 - Visualize relationships (scatter plots, box plots, pair plots).
 - Use bar charts, pie charts, and other categorical visualizations.
+
+  Loan Grade (Distribution): <br/>
+<img src="https://imgur.com/pR4MIHu.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<br />
+
 - Correlation heatmaps to understand relationships between variables.
 - Normalize or scale numerical features.
 - Encode categorical variables.
