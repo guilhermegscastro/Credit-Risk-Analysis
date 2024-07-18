@@ -56,7 +56,7 @@ Exploratory Data Analysis (EDA) using Python involves examining and visualizing 
 
 ### 3. Credit Risk Analysis - Logistic Regression.ipynb
 This notebook focuses on building and evaluating a logistic regression model. Key steps include:
-- Using the preprocessed data from the first notebook.
+- Using the preprocessed data from the second notebook.
 - Training a logistic regression model to predict loan defaults.
 - Evaluating the model's performance using metrics such as accuracy, precision, recall, and ROC-AUC.
 - Visualizing the results to interpret the model's performance.
@@ -75,7 +75,7 @@ This notebook focuses on building and evaluating a logistic regression model. Ke
 
 ### 4. Credit Risk Analysis - Random Forest.ipynb
 This notebook explores the use of a random forest model for predicting loan defaults. It covers:
-- Using the preprocessed data from the first notebook.
+- Using the preprocessed data from the second notebook.
 - Training a random forest classifier.
 - Evaluating the model's performance and comparing it with the logistic regression model.
 - Visualizing feature importance to understand the impact of different features on the prediction.
