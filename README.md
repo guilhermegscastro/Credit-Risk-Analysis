@@ -80,6 +80,18 @@ This notebook explores the use of a random forest model for predicting loan defa
 - Evaluating the model's performance and comparing it with the logistic regression model.
 - Visualizing feature importance to understand the impact of different features on the prediction.
 
+   Random Forest (Confusion Matrix): <br/>
+<img src="https://imgur.com/C2EZnZe.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
+   Random Forest (ROC curve): <br/>
+<img src="https://imgur.com/XbbHZKn.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
+   Random Forest (Default Probability Curve): <br/>
+<img src="https://imgur.com/1yaZ5VZ.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
 ## Key Findings
 - Both logistic regression and random forest models provide insights into factors influencing loan defaults.
 - The random forest model generally offers better performance and robustness compared to the logistic regression model.
