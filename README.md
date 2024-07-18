@@ -1,7 +1,7 @@
 # Credit Risk Analysis Project
 
 ## Overview
-This project aims to predict loan default risk using machine learning techniques. The analysis is divided into fou main stages:
+This project aims to predict loan default risk using machine learning techniques. The analysis is divided into four main stages:
 1. Data Preprocessing and Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Logistic Regression Model Implementation
