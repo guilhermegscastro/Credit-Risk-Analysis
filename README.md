@@ -42,8 +42,17 @@ Exploratory Data Analysis (EDA) using Python involves examining and visualizing 
 <img src="https://imgur.com/LTPwCfJ.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
 <br />
 
+   Loan Status vs Loan Percent Income (box plots): <br/>
+<img src="https://imgur.com/W6Yr1UP.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
 - Normalize or scale numerical features.
-- Encode categorical variables.
+
+   After Scaling (box plots): <br/>
+<img src="https://imgur.com/YZXwBuV.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+  
+- Encode categorical variables (Dummy Variables).
 
 ### 3. Credit Risk Analysis - Logistic Regression.ipynb
 This notebook focuses on building and evaluating a logistic regression model. Key steps include:
@@ -51,6 +60,10 @@ This notebook focuses on building and evaluating a logistic regression model. Ke
 - Training a logistic regression model to predict loan defaults.
 - Evaluating the model's performance using metrics such as accuracy, precision, recall, and ROC-AUC.
 - Visualizing the results to interpret the model's performance.
+
+   Logistic Regression (Confusion Matrix): <br/>
+<img src="https://imgur.com/DAw2DM3.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
 
 ### 4. Credit Risk Analysis - Random Forest.ipynb
 This notebook explores the use of a random forest model for predicting loan defaults. It covers:
