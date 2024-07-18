@@ -24,7 +24,7 @@ This notebook lays the groundwork for the credit risk analysis. It involves:
 - Conducting exploratory data analysis to gain insights into the data.
 
  Target Variable (loan status): <br/>
-<img src="https://imgur.com/A6ByCtS.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<img src="https://imgur.com/A6ByCtS.png" height="70%" width="70%" alt="Credit-Risk-Analysis"/>
 <br />
 
 ### 2. Credit Risk Analysis - 2.ipynb
@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) using Python involves examining and visualizing 
 - Use bar charts, pie charts, and other categorical visualizations.
 
   Loan Grade (Distribution): <br/>
-<img src="https://imgur.com/pR4MIHu.png" height="70%" width="90%" alt="Credit-Risk-Analysis"/>
+<img src="https://imgur.com/pR4MIHu.png" height="70%" width="70%" alt="Credit-Risk-Analysis"/>
 <br />
 
 - Correlation heatmaps to understand relationships between variables.
