@@ -37,6 +37,11 @@ Exploratory Data Analysis (EDA) using Python involves examining and visualizing 
 <br />
 
 - Correlation heatmaps to understand relationships between variables.
+
+   Correlation (Heatmap): <br/>
+<img src="https://imgur.com/LTPwCfJ.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
 - Normalize or scale numerical features.
 - Encode categorical variables.
 
