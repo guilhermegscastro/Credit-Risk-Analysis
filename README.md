@@ -1,12 +1,8 @@
-<h1>Portfolio Optimization Case Study</h1>
 
 
 Data Import: <br/>
 <img src="https://imgur.com/3KFpAY6.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
-
-
-
 
 
 # Credit Risk Analysis Project
