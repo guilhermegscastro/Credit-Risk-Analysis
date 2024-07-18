@@ -65,6 +65,14 @@ This notebook focuses on building and evaluating a logistic regression model. Ke
 <img src="https://imgur.com/DAw2DM3.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
 <br />
 
+   Logistic Regression (ROC curve): <br/>
+<img src="https://imgur.com/1rTMahn.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
+   Logistic Regression (Default Probability Curve): <br/>
+<img src="https://imgur.com/obY2SpI.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
 ### 4. Credit Risk Analysis - Random Forest.ipynb
 This notebook explores the use of a random forest model for predicting loan defaults. It covers:
 - Using the preprocessed data from the first notebook.
