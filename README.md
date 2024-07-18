@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) using Python involves examining and visualizing 
 - Use bar charts, pie charts, and other categorical visualizations.
 
   Loan Grade (Distribution): <br/>
-<img src="https://imgur.com/pR4MIHu.png" height="70%" width="70%" alt="Credit-Risk-Analysis"/>
+<img src="https://imgur.com/pR4MIHu.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
 <br />
 
 - Correlation heatmaps to understand relationships between variables.
