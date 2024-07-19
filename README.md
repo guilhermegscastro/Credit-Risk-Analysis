@@ -1,11 +1,12 @@
 # Credit Risk Analysis Project
 
 ## Overview
-This project aims to predict loan default risk using machine learning techniques. The analysis is divided into four main stages:
+This project aims to predict loan default risk using machine learning techniques. The analysis is divided into five main stages:
 1. Data Preprocessing and Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Logistic Regression Model Implementation
 4. Random Forest Model Implementation
+5. Making Predictions
 
 The project utilizes a dataset containing various features related to loan applications and borrower information.
 
@@ -90,6 +91,10 @@ This notebook explores the use of a random forest model for predicting loan defa
 
    Random Forest (Default Probability Curve): <br/>
 <img src="https://imgur.com/1yaZ5VZ.png" height="50%" width="50%" alt="Credit-Risk-Analysis"/>
+<br />
+
+ Making Predictions (New unseen data): <br/>
+<img src="https://imgur.com/EgM5E7f.png" height="80%" width="50%" alt="Credit-Risk-Analysis"/>
 <br />
 
 ## Key Findings
